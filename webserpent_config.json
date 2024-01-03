@@ -1,0 +1,24 @@
+{
+    "window": {
+        "width": 1200,
+        "height": 800,
+        "x_position": 0,
+        "y_position": 0,
+        "zoom_factor": 1.0,
+        "frameless": false,
+        "resizable": true,
+        "always_on_top": false,
+        "fullscreen": false,
+        "context_menu_enabled": false
+    },
+    "browser": {
+        "plugins_enabled": true,
+        "javascript_enabled": true,
+        "javascript_can_open_windows": true,
+        "javascript_can_access_clipboard": true,
+        "local_storage_enabled": true,
+        "local_content_can_access_remote_urls": true,
+        "local_content_can_access_file_urls": true,
+        "screen_capture_enabled": true
+    }
+}
