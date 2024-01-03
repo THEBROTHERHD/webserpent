@@ -3,8 +3,7 @@
 # Welcome to Webserpent
 Webserpent offers a convenient way to transform your web application into a standalone executable (EXE) file using Python. It requires a valid Python installation on the system. All other necessary components are installed automatically.
 
-## What is 
-Webserpent Used For?
+## What is Webserpent Used For?
 Webserpent is ideal for smaller web projects that you wish to distribute as Windows applications to your users. It allows for the conversion of website source code into a desktop app. However, it's important to note:
 - Webserpent does not substitute your backend infrastructure.
 - It is not an alternative to Node.js Packagers like NodeJS-Natifier.
